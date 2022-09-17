@@ -1,0 +1,38 @@
+.aligncenter {
+    width: 40%;
+   margin: 10rem auto !important;
+}
+.aligncenter input{
+    padding: 1rem;
+    width: 30vw;
+    margin: 0 2.4rem  !important;
+    border-radius: 50px;
+}
+.btn{
+    padding: 0.4rem 1rem;
+    width: 166px;
+    margin: 1rem 9.4rem  !important;
+    border-radius: 100px;
+    
+    /* background-color: blue; */
+    color: rgb(0, 0, 0);
+}
+.relative {
+    padding: 10px;
+    position: relative;
+    background-color: #fff;
+    margin: 10px;
+   } 
+   .navitem {
+     display: inline-block;
+     width: 166px; 
+     height: 30px; 
+     text-align: center;
+     border:#f8f9fa;
+     background-color: #f8f9fa;
+     color: #3c4043;
+     cursor: pointer;
+     font-weight: bold;
+     border-radius: 10px;
+   }
+   

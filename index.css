@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.771);
+}
+#nav-bar li{
+    display: inline-block;
+    padding: 0rem 2rem;
+    color: lightgreen;
+    /* 1rem = 16px */
+}
+#nav{
+    background-color: black;
+    color: white;
+    padding: 1rem 0;
+}
+.cont{
+    background-color: pink;
+    display: flex;
+    min-height: 30rem;
+}
+#dp{
+    width: 22rem;
+    height: 10rem;
+    border-radius: 12px;
+    margin: 1rem auto;
+    
+    
+}
+.details{
+    margin: auto;
+    padding: auto;
+   
+}
+h2{
+    margin: 2rem auto ;
+    padding: auto;
+}
